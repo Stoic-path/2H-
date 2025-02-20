@@ -1,0 +1,17 @@
+[project]
+name = "test-uce"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "groq>=0.18.0",
+    "loguru>=0.7.3",
+    "matplotlib>=3.10.0",
+    "openai>=1.63.2",
+    "openpyxl>=3.1.5",
+    "panda>=0.3.1",
+    "pypdf2>=3.0.1",
+    "python-dotenv>=1.0.1",
+    "streamlit>=1.42.1",
+]
